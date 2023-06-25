@@ -1,0 +1,21 @@
+
+.class{
+  font-size: 100%;
+  font-style: normal;
+  background-color: #80ced6;
+}
+body {
+  background-color: #fefbd8;
+}
+
+h1 {
+  background-color:#inherit;
+
+}
+h2{
+  background-color: #000;
+}
+
+div {
+  background-color: #d5f4e6;
+}
